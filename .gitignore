@@ -1,0 +1,6 @@
+*.pyc
+*.txt
+*.log
+*.zip
+/env/
+/prerender-master/
