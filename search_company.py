@@ -9,8 +9,7 @@ from selenium.webdriver.chrome.options import Options
 options = Options()
 options.headless = True
 
-def get_html():
-
+# def get_html():
 
 COMPANY = input('Введите название компании:')
 URL = 'https://www.e-disclosure.ru/poisk-po-kompaniyam'
